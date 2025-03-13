@@ -1,0 +1,106 @@
+2025-03-12 12:15:40,419 - root - INFO - Environment: Production
+2025-03-12 12:15:40,419 - root - INFO - Application started.
+2025-03-12 12:15:40,419 - root - INFO - Executing main
+2025-03-12 12:15:40,419 - root - WARNING - Plugins directory not found: app/plugins
+2025-03-12 12:15:40,419 - root - INFO - Executing run_repl
+2025-03-12 12:16:43,514 - root - INFO - Environment: Production
+2025-03-12 12:16:43,514 - root - INFO - Application started.
+2025-03-12 12:16:43,514 - root - INFO - Executing main
+2025-03-12 12:16:43,517 - root - INFO - Loaded plugin: subtract_command
+2025-03-12 12:16:43,518 - root - INFO - Loaded plugin: square_command
+2025-03-12 12:16:43,519 - root - INFO - Loaded plugin: divide_command
+2025-03-12 12:16:43,520 - root - INFO - Loaded plugin: add_command
+2025-03-12 12:16:43,521 - root - INFO - Loaded plugin: multiply_command
+2025-03-12 12:16:43,521 - root - INFO - Executing run_repl
+2025-03-12 12:16:49,157 - root - INFO - Executing perform_calculation_and_display
+2025-03-12 12:16:49,157 - root - INFO - Calculated add result: 3
+2025-03-12 12:16:54,018 - root - INFO - Executing perform_calculation_and_display
+2025-03-12 12:16:54,033 - root - INFO - Calculated add result using multiprocessing: 3
+2025-03-12 12:18:06,819 - root - INFO - Environment: Production
+2025-03-12 12:18:06,819 - root - INFO - Application started.
+2025-03-12 12:18:06,819 - root - INFO - Executing main
+2025-03-12 12:18:06,820 - root - INFO - Loaded plugin: subtract_command
+2025-03-12 12:18:06,820 - root - INFO - Loaded plugin: square_command
+2025-03-12 12:18:06,821 - root - INFO - Loaded plugin: divide_command
+2025-03-12 12:18:06,821 - root - INFO - Loaded plugin: add_command
+2025-03-12 12:18:06,821 - root - INFO - Loaded plugin: multiply_command
+2025-03-12 12:18:06,822 - root - INFO - Executing run_repl
+2025-03-12 12:18:15,154 - root - INFO - Executing perform_calculation_and_display
+2025-03-12 12:18:15,154 - root - INFO - Calculated add result: 3
+2025-03-12 12:18:18,664 - root - INFO - Executing perform_calculation_and_display
+2025-03-12 12:18:18,673 - root - INFO - Calculated add result using multiprocessing: 3
+2025-03-12 12:19:01,374 - root - INFO - Environment: Production
+2025-03-12 12:19:01,374 - root - INFO - Application started.
+2025-03-12 12:19:01,374 - root - INFO - Executing main
+2025-03-12 12:19:01,375 - root - INFO - Loaded plugin: subtract_command
+2025-03-12 12:19:01,376 - root - INFO - Loaded plugin: square_command
+2025-03-12 12:19:01,376 - root - INFO - Loaded plugin: divide_command
+2025-03-12 12:19:01,376 - root - INFO - Loaded plugin: add_command
+2025-03-12 12:19:01,377 - root - INFO - Loaded plugin: multiply_command
+2025-03-12 12:19:01,377 - root - INFO - Executing run_repl
+2025-03-12 12:19:04,400 - root - INFO - Executing perform_calculation_and_display
+2025-03-12 12:19:04,400 - root - INFO - Calculated add result: 3
+2025-03-12 12:19:26,994 - root - INFO - Executing perform_calculation_and_display
+2025-03-12 12:19:26,994 - root - INFO - Calculated add result: 5
+2025-03-12 12:19:36,726 - root - ERROR - Error in run_repl: not enough values to unpack (expected 2, got 1)
+2025-03-12 12:19:36,727 - root - ERROR - Error in main: not enough values to unpack (expected 2, got 1)
+2025-03-12 12:19:42,044 - root - INFO - Environment: Production
+2025-03-12 12:19:42,044 - root - INFO - Application started.
+2025-03-12 12:19:42,044 - root - INFO - Executing main
+2025-03-12 12:19:42,045 - root - INFO - Loaded plugin: subtract_command
+2025-03-12 12:19:42,045 - root - INFO - Loaded plugin: square_command
+2025-03-12 12:19:42,045 - root - INFO - Loaded plugin: divide_command
+2025-03-12 12:19:42,046 - root - INFO - Loaded plugin: add_command
+2025-03-12 12:19:42,046 - root - INFO - Loaded plugin: multiply_command
+2025-03-12 12:19:42,046 - root - INFO - Executing run_repl
+2025-03-12 12:19:51,078 - root - INFO - Executing perform_calculation_and_display
+2025-03-12 12:19:51,079 - root - INFO - Calculated add result: 3
+2025-03-12 12:20:29,863 - root - ERROR - Error in run_repl: Cannot save file into a non-existent directory: 'data'
+2025-03-12 12:20:29,863 - root - ERROR - Error in main: Cannot save file into a non-existent directory: 'data'
+2025-03-12 12:21:42,976 - root - INFO - Environment: Production
+2025-03-12 12:21:42,976 - root - INFO - Application started.
+2025-03-12 12:21:42,976 - root - INFO - Executing main
+2025-03-12 12:21:42,977 - root - INFO - Loaded plugin: subtract_command
+2025-03-12 12:21:42,978 - root - INFO - Loaded plugin: square_command
+2025-03-12 12:21:42,978 - root - INFO - Loaded plugin: divide_command
+2025-03-12 12:21:42,978 - root - INFO - Loaded plugin: add_command
+2025-03-12 12:21:42,979 - root - INFO - Loaded plugin: multiply_command
+2025-03-12 12:21:42,979 - root - INFO - Executing run_repl
+2025-03-12 12:21:45,002 - root - INFO - Executing perform_calculation_and_display
+2025-03-12 12:21:45,003 - root - INFO - Calculated add result: 3
+2025-03-12 13:09:07,191 - root - INFO - Environment: Production
+2025-03-12 13:09:07,192 - root - INFO - Application started.
+2025-03-12 13:09:07,192 - root - INFO - Executing main
+2025-03-12 13:09:07,193 - root - INFO - Loaded plugin: subtract_command
+2025-03-12 13:09:07,193 - root - INFO - Loaded plugin: square_command
+2025-03-12 13:09:07,193 - root - INFO - Loaded plugin: divide_command
+2025-03-12 13:09:07,194 - root - INFO - Loaded plugin: add_command
+2025-03-12 13:09:07,194 - root - INFO - Loaded plugin: multiply_command
+2025-03-12 13:09:07,194 - root - INFO - Executing run_repl
+2025-03-12 13:09:10,461 - root - INFO - Executing calculate_and_display_result
+2025-03-12 13:09:10,461 - root - INFO - Result for add: 3
+2025-03-13 05:29:08,756 - root - INFO - Environment: Production
+2025-03-13 05:29:08,756 - root - INFO - Application started.
+2025-03-13 05:29:08,756 - root - INFO - Executing main
+2025-03-13 05:29:08,758 - root - INFO - Loaded plugin: mean_command
+2025-03-13 05:29:08,759 - root - INFO - Loaded plugin: subtract_command
+2025-03-13 05:29:08,760 - root - INFO - Loaded plugin: square_command
+2025-03-13 05:29:08,761 - root - INFO - Loaded plugin: divide_command
+2025-03-13 05:29:08,763 - root - INFO - Loaded plugin: add_command
+2025-03-13 05:29:08,764 - root - INFO - Loaded plugin: multiply_command
+2025-03-13 05:29:08,764 - root - INFO - Executing run_repl
+2025-03-13 05:29:15,320 - root - INFO - Executing calculate_and_display_result
+2025-03-13 05:29:15,320 - root - INFO - Result for mean: 1.5
+2025-03-13 05:29:24,706 - root - INFO - Executing calculate_and_display_result
+2025-03-13 05:29:24,721 - root - INFO - Multiprocessing result for mean: 1.5
+2025-03-13 05:34:05,836 - root - INFO - Environment: Production
+2025-03-13 05:34:05,836 - root - INFO - Application started.
+2025-03-13 05:34:05,836 - root - INFO - Executing main
+2025-03-13 05:34:05,837 - root - INFO - Loaded plugin: mean_command
+2025-03-13 05:34:05,838 - root - INFO - Loaded plugin: subtract_command
+2025-03-13 05:34:05,838 - root - INFO - Loaded plugin: square_command
+2025-03-13 05:34:05,838 - root - INFO - Loaded plugin: divide_command
+2025-03-13 05:34:05,839 - root - INFO - Loaded plugin: median_command
+2025-03-13 05:34:05,839 - root - INFO - Loaded plugin: add_command
+2025-03-13 05:34:05,840 - root - INFO - Loaded plugin: multiply_command
+2025-03-13 05:34:05,840 - root - INFO - Executing run_repl
